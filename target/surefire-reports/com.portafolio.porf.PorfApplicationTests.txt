@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.portafolio.porf.PorfApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 47.458 s - in com.portafolio.porf.PorfApplicationTests
