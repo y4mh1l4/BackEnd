@@ -23,4 +23,4 @@ XAMPP
 
 # Script de la Base de datos
 
-[CLICK AL ENLACE](https://github.com/y4mh1l4/MySQL-.git)
+[CLICK AL ENLACE](https://github.com/y4mh1l4/MySQL-/blob/master/portafolio.sql)
